@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="true" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="BasicFunctionalities.ParallelTesting_CheckingDDT_UsingGoogleChrome"/>
+       <class name="BasicFunctionalities.ParallelTesting_CheckingDDT_UsingMSEdge"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
